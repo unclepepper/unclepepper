@@ -1,11 +1,11 @@
 <div align="center">
   <img src="logo.jpg" alt="Logo">
-  <br/><hr/>
-  <a href="https://t.me/nik_ter"><img src="telegram.png"  alt="telegram"/></a>
+  <br/> <br/>
+  <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
   <br/>
 </div>
+<hr/>
 
-## Hi there 👋
 
 <!--
 
