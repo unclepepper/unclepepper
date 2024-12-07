@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="logo.webp" width="300" alt="Logo">
+  <img src="1.gif" width="300" alt="Logo">
   <br/> <br/>
-  <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
+  <a href="https://t.me/nik_ter"><img src="telegram.png"  align="right" alt="telegram"/></a>
   <br/>
 </div>
 
