@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpg" alt="Logo">
+  <img src="logo.webp" alt="Logo">
   <br/> <br/>
   <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
   <br/>
