@@ -1,7 +1,13 @@
+<div align="center">
+  <img src="logo.jpg" alt="Logo">
+  <br/><hr/>
+  <a href="https://t.me/nik_ter"><img src="telegram.png"  alt="telegram"/></a>
+  <br/>
+</div>
+
 ## Hi there 👋
 
 <!--
-**unclepepper/unclepepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
