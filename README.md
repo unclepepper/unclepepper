@@ -4,7 +4,7 @@
   <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
   <br/>
 </div>
-<hr/>
+
 
 
 <!--
