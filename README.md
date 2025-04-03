@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="laptop.gif" height="500"  alt="Logo">
+  <img src="laptop.gif" height="300"  alt="Logo">
   <br/> <br/>
   <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
   <br/>
