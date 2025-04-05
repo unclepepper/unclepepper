@@ -1,6 +1,5 @@
 <div align="center">
   <div>
-     <img src="thunderstorm.png">
     <img src="cat.gif"  alt="Logo">
   </div>
   
