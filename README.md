@@ -1,5 +1,5 @@
 <div align="center">
-  <div width="200" style="background-img: url('thunderstorm.png');">
+  <div width="200" style="background-image: url("thunderstorm.png");">
     <img src="cat.gif"  alt="Logo">
   </div>
   
