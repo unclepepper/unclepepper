@@ -1,6 +1,8 @@
 <div align="center">
-  <div width="200" style="background-img: url('thunderstorm.png');"></div>
-  <img src="cat.gif"  alt="Logo">
+  <div width="200" style="background-img: url('thunderstorm.png');">
+    <img src="cat.gif"  alt="Logo">
+  </div>
+  
   <br/> <br/>
   <a href="https://t.me/nik_ter"><img src="telegram.png" width="30" align="right" alt="telegram"/></a>
   <br/>
